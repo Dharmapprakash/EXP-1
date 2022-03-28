@@ -1,1 +1,1 @@
-# EXP-1
+# EXP-1_N-queen problem
